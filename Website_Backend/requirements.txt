@@ -9,3 +9,4 @@ tqdm
 soundfile
 librosa
 ffmpeg-python
+llama_cpp
