@@ -1,0 +1,11 @@
+flask
+flask-cors
+python-dotenv
+transformers
+torch
+faster-whisper
+numpy
+tqdm
+soundfile
+librosa
+ffmpeg-python
