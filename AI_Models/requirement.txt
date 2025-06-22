@@ -1,0 +1,23 @@
+# Core Libraries
+transformers
+datasets
+seqeval
+evaluate
+sentencepiece
+protobuf
+huggingface_hub
+hf_transfer
+
+# Unsloth and dependencies
+unsloth
+bitsandbytes
+accelerate
+xformers==0.0.29.post3
+peft
+trl
+triton
+cut_cross_entropy
+unsloth_zoo
+
+# Whisper
+faster-whisper
