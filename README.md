@@ -6,7 +6,6 @@ This project provides a complete end-to-end system to **detect and redact Person
 
 Users can upload audio files to the website, select between two AI models for PII detection (DeBERTa or Unsloth), and receive both redacted text and audio output.
 
----
 
 ## 🎯 Goals
 
@@ -15,8 +14,6 @@ Users can upload audio files to the website, select between two AI models for PI
 - Enable selection between two NLP models (DeBERTa and Unsloth)
 - Provide both **transcribed and redacted text**, and **muted/redacted audio**
 - Ensure a clean, responsive frontend and optimized backend API
-
----
 
 ## ⚙️ Technologies Used
 
@@ -44,7 +41,6 @@ Users can upload audio files to the website, select between two AI models for PI
 - **Python** & **Jupyter Notebooks**: For prototyping and testing
 - **CSV / JSON**: For storing transcripts, labels, and results
 
----
 
 ## 📦 System Features
 
@@ -76,7 +72,6 @@ Users can upload audio files to the website, select between two AI models for PI
 - Redacted transcript
 - Redacted audio preview and download link
 
----
 
 ## 🔍 PII Types Detected
 
@@ -87,11 +82,7 @@ Users can upload audio files to the website, select between two AI models for PI
 - **Social Security Numbers (SSNs)**
 - **Bank Account Numbers**
 - **Routing Numbers**
-- **Email Addresses**
-- **Driving License Numbers**
-- **Passport Numbers**
 
----
 
 ## 🧪 Project Pipeline
 
@@ -123,7 +114,6 @@ Users can upload audio files to the website, select between two AI models for PI
   - Entity list
   - Redacted audio with download option
 
----
 
 ## 🔐 Security and Ethics
 
